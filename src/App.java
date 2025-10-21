@@ -2,7 +2,6 @@ import java.time.LocalTime;
 import java.time.format.DateTimeFormatter;
 import java.time.format.DateTimeParseException;
 import java.util.Scanner;
-//TODO: Use Java Swing to create a GUI for the Alarm Clock
 public class App {
     public static void main(String[] args) {
         Scanner scanner =new Scanner(System.in);
