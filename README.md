@@ -98,7 +98,7 @@ TODO:
 - Use Java Swing for a GUI instead of the console.
 
 ## License
-- No license file.
+- Not Yet Added
 
 TODO:
 - Add a LICENSE file to clarify usage rights.
